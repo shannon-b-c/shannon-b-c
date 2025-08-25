@@ -1,6 +1,6 @@
 ## Hi, I'm Shannon Chisanga!
 
-👩🏾‍💻 An aspiring software developer currently pursuing a **BSc in Computer Science** degree at the University of Witwatersrand
+#### 👩🏾‍💻 An aspiring software developer currently pursuing a **BSc in Computer Science** at the University of Witwatersrand
 
 ### 🛠️ Tech Stack
 - **Languages**: Java, C++, Python, SQL  
